@@ -1,0 +1,10 @@
+.button {
+  width: 100%;
+  border-radius: 14px;
+  background: #348f50;
+  background: -webkit-linear-gradient(to right, #1093bd, #00942d);
+  background: linear-gradient(to right, #1093bd, #00942d);
+
+  color: #fff;
+  font-weight: 600;
+}

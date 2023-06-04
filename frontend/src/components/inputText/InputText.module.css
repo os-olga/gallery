@@ -1,0 +1,19 @@
+.inputText {
+  margin: 10px 0;
+}
+
+.inputText p {
+  margin: 5px 0;
+}
+
+.inputText input {
+  box-sizing: border-box;
+  padding: 10px 12px;
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+.inputText input:focus {
+  outline: none;
+}
